@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## About Me
 Hi there! I'm @sqlsarah, a SQL Server database administrator with a passion for performance. I'm also known to dabble in C#, Java, Python, and Powershell. In my free time, I'm also a digital illustrator. My favorite color is `#93E9BE` seafoam green.
+
 I have over 5 years of professional team experience in the IT industry, with a focus in SQL Server Database Administration. Backup plans, disaster recovery, and performance tuning all included! Beyond the usual DBA skills, I am also responsible for managing and deploying our proprietary software with Azure DevOps CI pipelines for test environments I have cultivated. 
 
 ## Technical Skills
